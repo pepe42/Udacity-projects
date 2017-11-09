@@ -1,0 +1,49 @@
+#dimensions {
+	width: 326px;
+	margin: auto;
+	padding: 5px;
+	box-shadow: 0px 5px 10px #000;
+	border: 3px double #ff0000;
+    border-radius: 5px;
+}
+
+h3 {
+	text-align: center;
+}
+
+.border {
+	border: 3px double #fff;
+	padding: 5px 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+}
+
+.bg {
+	background-color: #ff0000;
+}
+
+img {
+     border-radius: 5px;
+ }
+p {
+	text-align: justify;
+	color: #fff;
+}
+
+li {
+	margin-left: -38px;
+}
+
+.fact {
+	font-style: italic;
+	font-size: 18px;
+	text-align: center;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+li {
+	list-style-type: none;
+}
